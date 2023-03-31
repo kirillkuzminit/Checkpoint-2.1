@@ -1,0 +1,33 @@
+.services{	
+	background-color: #121212;
+}
+.services__title {
+	width: 66px;
+	height: 25px;
+	padding: 151px 0 0 2px;
+	margin-bottom: 59px;
+	color: #ffffff;
+}
+.service {		
+	margin-bottom: 58px;
+	margin-left: 2px;
+}
+.service:last-child{
+	margin-bottom: 0;	
+	padding-bottom: 150px;
+}
+.service__img{	
+	margin-bottom: 14px;
+	width: 1150px;
+	height: 270px;
+}
+.service__text {
+	padding-left: 2px;
+	color: #FFFFFF;
+}
+@media (max-width: 1199px) {
+	
+}
+@media (max-width: 767px){
+
+}
